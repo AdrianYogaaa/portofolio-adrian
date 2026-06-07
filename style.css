@@ -282,6 +282,7 @@ body {
 .experience .container {
     max-width: 1000px;
     margin: 0 auto;
+    margin-bottom: 5%;
     display: flex;
     justify-content: center;
 }
